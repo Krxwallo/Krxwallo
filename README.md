@@ -1,16 +1,19 @@
-### Hi there 👋
+Dye Extension | Obsidian Extension
+-- | --
+[📕 View Code Repository](https://github.com/Krxwallo/DyeExtension) | [📕 View Code Repository](https://github.com/Krxwallo/ObsidianExtension)
+[🐛 Report a Bug](https://github.com/Kxwallo/DyeExtension/issues) | [🐛 Report a Bug](https://github.com/Krxwallo/ObsidianExtension/issues)
+[💾 Main Page](https://www.curseforge.com/minecraft/mc-mods/dye-extension) | [💾 Main Page](https://www.curseforge.com/minecraft/mc-mods/obsidian-extension)
 
-<!--
-**Krxwallo/Krxwallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CheatMode | SimpleFPS
+-- | --
+[📕 View Code Repository](https://github.com/Krxwallo/CheatMode) | [📕 View Code Repository](https://github.com/Krxwallo/SimpleFPS)
+[🐛 Report a Bug](https://github.com/Krxwallo/CheatMode/issues) | [🐛 Report a Bug](https://github.com/Krxwallo/SimpleFPS/issues)
+[💾 Main Page](https://www.curseforge.com/minecraft/mc-mods/cheat-mode) | [💾 Main Page](https://www.curseforge.com/minecraft/mc-mods/simple-fps)
 
-Here are some ideas to get you started:
+Filters Reborn | InstantTNT
+-- | --
+[📕 View Code Repository](https://github.com/Krxwallo/FiltersReborn) | [📕 View Code Repository](https://github.com/Krxwallo/InstantTNT)
+[🐛 Report a Bug](https://github.com/Krxwallo/FiltersReborn/issues/new) | [🐛 Report a Bug](https://github.com/Krxwallo/InstantTNT/issues)
+[💾 Main Page](https://www.curseforge.com/minecraft/mc-mods/filters-reborn) | [💾 Main Page](https://www.curseforge.com/minecraft/mc-mods/instant-tnt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Base Template by [MrCrayfish](https://github.com/MrCrayfish). 
